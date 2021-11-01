@@ -2,8 +2,7 @@
 #include <iostream>
 
 using namespace std;
-void main() {
-   cout << "Hello World" << endl;
-   // comments
-
+int main() {
+   cout << "Hello World, Run C++ Code in VS Code, using Gcc with Ming-w" << endl;
+   return 0;
 }
